@@ -3,5 +3,6 @@ The above folder contains tests which is used for testing the numVerify API with
 The above structure uses rspec matchers for assertions and also uses the HTTParty for accessing the API request.
 
 ## Steps to run the test:
-1. ```bundle install ```(For installing the gems specified in the gem file.)
-2. ```rspec filename.rb```
+1.```cd num-verify```
+2. ```bundle install ```(For installing the gems specified in the gem file.)
+3. ```rspec filename.rb```
