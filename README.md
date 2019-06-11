@@ -1,4 +1,4 @@
-# numverify
+# numverify API
 The above folder contains tests which is used for testing the numVerify API with different test scenarios
 The above structure uses rspec matchers for assertions and also uses the HTTParty for accessing the API request.
 
